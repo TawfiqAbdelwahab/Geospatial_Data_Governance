@@ -56,7 +56,6 @@ I will inspect the tail of `utils.py` to ensure it is syntactically correct.
 
 Viewed utils.py:205-214
 
-I will add back the `padding: 24px;` style attribute to the `stForm` custom class inside `utils.py`.
 
 Edited utils.py
 
